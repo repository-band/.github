@@ -23,7 +23,7 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 # Music
 ## 💿 [The Fractured Log](https://github.com/repository-band/theFracturedLog)
 1. [Initial Commit](https://github.com/repository-band/theFracturedLog/tree/main/1.%20Initial%20Commit) (*[YouTube](https://youtu.be/MD-AY6ZOFv8)*)
-2. Empty Parentheses
+2. [Empty Parentheses](https://github.com/repository-band/theFracturedLog/tree/main/2.%20Empty%20Parentheses)
 3. The Quiet Room
 4. Debugging the Soul
 5. Forked Paths

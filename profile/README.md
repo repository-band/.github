@@ -1,16 +1,18 @@
 # Repository — A Human Commit
 
-Welcome to Repository.
+We are not a regular band. We are a living archive of sound, memory, and becoming. Where music as open source ties directly to existential and emotional themes about identity. For us, identity is forked, merged, and versioned, reflecting healing as a push–pull between chaos and refinement.
 
-This is not a regular band. It’s a living archive of sound, memory, and becoming.
+We symbolically link coding structures to the human condition: every life experience is a commit; every trauma an unresolved merge conflict. Through an open-source ethos embedded in our DNA, we declare: our humanity is collective software. Making music free to clone, modify, and reuse is an act of radical vulnerability, mirroring our personal journeys of making peace with the past through creation.
 
-Repository explores the space where human emotion meets code — where the past’s echoes are commits in a collective software of identity. Each piece you find here is part of a larger system: fragments of stories, feelings, and questions written in melody, rhythm, and distortion.
+We explore posthumanism where humanity and technology merge, destabilizing fixed identity and opening new possibilities. Our identity is fluid, a co-authored code written through interaction and experience rather than fixed biology.
 
-The voices you hear — measured and melodic, raw and breaking — inhabit different layers of a single consciousness. Together, they tell a tale that unfolds slowly, like branches growing and merging in a vast, unseen network.
+Each piece you find is part of a larger system: fragments of stories, feelings, and questions written in melody, rhythm, and distortion.
 
-Everything here is open source. The sounds are free to be adapted, remixed, and transformed — because creation is a collaborative act, and every fork is a new beginning.
+The voices you hear – measured and melodic, raw and breaking – inhabit different layers of a single consciousness. Together, we tell a tale unfolding slowly, like branches growing and merging in a vast, unseen network.
 
-The full story is not given all at once. It will reveal itself track by track, commit by commit, through the music and the moments it captures.
+Everything here is open source. Our sounds are free to be adapted, remixed, and transformed, because creation is a collaborative act, and every fork is a new beginning.
+
+The full story is not given all at once. It reveals itself track by track, commit by commit, through the music and the moments we capture.
 
 If you find yourself in these echoes, feel free to explore, contribute your own reflections, and become part of the repository.
 

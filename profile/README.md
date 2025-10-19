@@ -19,3 +19,17 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 *This repository is both code and confession. Debug the soul and push your truth.*
 
 ---
+
+# Music
+## The Fractured Log
+https://github.com/repository-band/theFracturedLog
+1. Initial Commit
+2. Empty Parentheses
+3. The Quiet Room
+4. Debugging the Soul
+5. Forked Paths
+6. Undefined Variable
+7. Shadows in Syntax
+8. Unstable Branch
+9. Null Reference
+10. Merge Conflicts

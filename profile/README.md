@@ -1,8 +1,8 @@
 # Repository — A Human Commit
 
-We are not a regular band. We are a living archive of sound, memory, and becoming. Where music as open source ties directly to existential and emotional themes about identity. For us, identity is forked, merged, and versioned, reflecting healing as a push–pull between chaos and refinement.
+We are not a regular band. We are a living archive of sound, memory, and becoming. Where music as open source ties directly to existential and emotional themes about identity. For us, **identity is forked, merged, and versioned, reflecting healing as a push–pull between chaos and refinement.**
 
-We symbolically link coding structures to the human condition: every life experience is a commit; every trauma an unresolved merge conflict. Through an open-source ethos embedded in our DNA, we declare: our humanity is collective software. Making music free to clone, modify, and reuse is an act of radical vulnerability, mirroring our personal journeys of making peace with the past through creation.
+We symbolically link coding structures to the human condition: **every life experience is a commit; every trauma an unresolved merge conflict.** Through an open-source ethos embedded in our DNA, we declare: our humanity is collective software. Making music free to clone, modify, and reuse is an act of radical vulnerability, mirroring our personal journeys of making peace with the past through creation.
 
 We explore posthumanism where humanity and technology merge, destabilizing fixed identity and opening new possibilities. Our identity is fluid, a co-authored code written through interaction and experience rather than fixed biology.
 

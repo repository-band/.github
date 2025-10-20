@@ -27,7 +27,7 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 1. [Initial Commit](https://github.com/repository-band/The_Fracture_Log/tree/main/1.%20Initial%20Commit) (*[YouTube](https://youtu.be/j6GylBC5iOA)*)
 2. [Empty Parentheses](https://github.com/repository-band/The_Fracture_Log/tree/main/2.%20Empty%20Parentheses) (*[YouTube](https://youtu.be/g0D_GVDNwyw)*)
 3. [The Quiet Room](https://github.com/repository-band/The_Fracture_Log/tree/main/3.%20The%20Quiet%20Room) (*[YouTube](https://youtu.be/9YHaeFbu0ek)*)
-4. Debugging the Soul
+4. [Debugging the Soul](https://github.com/repository-band/The_Fracture_Log/tree/main/4.%20Debugging%20The%20Soul) (*[YouTube](https://youtu.be/f3dqkEbQx-w)*)
 5. Forked Paths
 6. Undefined Variable
 7. Shadows in Syntax

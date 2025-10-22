@@ -33,4 +33,4 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 7. [Shadows in Syntax](https://github.com/repository-band/The_Fracture_Log/tree/main/7.%20Shadows%20in%20Syntax)
 8. [Unstable Branch](https://github.com/repository-band/The_Fracture_Log/tree/main/8.%20Unstable%20Branch)
 9. [Null Reference](https://github.com/repository-band/The_Fracture_Log/tree/main/9.%20Null%20Reference)
-10. Merge Conflicts
+10. [Merge Conflicts](https://github.com/repository-band/The_Fracture_Log/tree/main/10.%20Merge%20Conflicts)

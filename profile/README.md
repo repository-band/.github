@@ -23,14 +23,22 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 ---
 
 # Music
-## 💿 [The Fracture Log](https://github.com/repository-band/The_Fracture_Log) ([YouTube](https://www.youtube.com/playlist?list=PLUX30XhOtlv4-aq3WyHqoWmxfXnuqvTpc)/[Suno](https://suno.com/playlist/22334f9a-2bd4-4651-bf6c-d918cf1dd028))
-1. [Initial Commit](https://github.com/repository-band/The_Fracture_Log/tree/main/01.%20Initial%20Commit) (*[YouTube](https://youtu.be/j6GylBC5iOA)*)
-2. [Empty Parentheses](https://github.com/repository-band/The_Fracture_Log/tree/main/02.%20Empty%20Parentheses) (*[YouTube](https://youtu.be/g0D_GVDNwyw)*)
-3. [The Quiet Room](https://github.com/repository-band/The_Fracture_Log/tree/main/03.%20The%20Quiet%20Room) (*[YouTube](https://youtu.be/9YHaeFbu0ek)*)
-4. [Debugging the Soul](https://github.com/repository-band/The_Fracture_Log/tree/main/04.%20Debugging%20The%20Soul) (*[YouTube](https://youtu.be/f3dqkEbQx-w)*)
-5. [Forked Paths](https://github.com/repository-band/The_Fracture_Log/tree/main/05.%20Forked%20Paths) (*[YouTube](https://youtu.be/ipnOWoh2aBY)*)
-6. [Undefined Variable](https://github.com/repository-band/The_Fracture_Log/tree/main/06.%20Undefined%20Variable) (*[YouTube](https://youtu.be/9KBsc3VxkUU)*)
-7. [Shadows in Syntax](https://github.com/repository-band/The_Fracture_Log/tree/main/07.%20Shadows%20in%20Syntax) (*[YouTube](https://youtu.be/zdA57hPvbb0)*)
-8. [Unstable Branch](https://github.com/repository-band/The_Fracture_Log/tree/main/08.%20Unstable%20Branch) (*[YouTube](https://youtu.be/kUwUHYhza1Y)*)
-9. [Null Reference](https://github.com/repository-band/The_Fracture_Log/tree/main/09.%20Null%20Reference) (*[YouTube](https://youtu.be/ca-wCIlg9eY)*)
-10. [Merge Conflicts](https://github.com/repository-band/The_Fracture_Log/tree/main/10.%20Merge%20Conflicts) (*[YouTube](https://youtu.be/yDV0Sp_uNqA)*)
+## 💿 [The Fracture Log](https://github.com/repository-band/The_Fracture_Log)
+1. [Initial Commit](https://github.com/repository-band/The_Fracture_Log/tree/main/01.%20Initial%20Commit)
+2. [Empty Parentheses](https://github.com/repository-band/The_Fracture_Log/tree/main/02.%20Empty%20Parentheses)
+3. [The Quiet Room](https://github.com/repository-band/The_Fracture_Log/tree/main/03.%20The%20Quiet%20Room)
+4. [Debugging the Soul](https://github.com/repository-band/The_Fracture_Log/tree/main/04.%20Debugging%20The%20Soul)
+5. [Forked Paths](https://github.com/repository-band/The_Fracture_Log/tree/main/05.%20Forked%20Paths)
+6. [Undefined Variable](https://github.com/repository-band/The_Fracture_Log/tree/main/06.%20Undefined%20Variable)
+7. [Shadows in Syntax](https://github.com/repository-band/The_Fracture_Log/tree/main/07.%20Shadows%20in%20Syntax)
+8. [Unstable Branch](https://github.com/repository-band/The_Fracture_Log/tree/main/08.%20Unstable%20Branch)
+9. [Null Reference](https://github.com/repository-band/The_Fracture_Log/tree/main/09.%20Null%20Reference)
+10. [Merge Conflicts](https://github.com/repository-band/The_Fracture_Log/tree/main/10.%20Merge%20Conflicts)
+
+Listen here:
+* [Spotify](https://open.spotify.com/intl-de/album/6ag3d53S9kBAxD0fm1pARr)
+* [Apple Music](https://music.apple.com/us/album/the-fracture-log/1851078043)
+* [Tidal](https://tidal.com/album/472020882)
+* [Amazon Music](https://music.amazon.de/albums/B0FZYC9QB5)
+* [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_ljbkNdrjnsZq9py60_SnZndLR4FK-WgVU)
+* [YouTube](https://www.youtube.com/playlist?list=PLUX30XhOtlv4-aq3WyHqoWmxfXnuqvTpc)

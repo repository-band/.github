@@ -24,6 +24,11 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 
 # Music
 ## 💿 [The Fracture Log](https://github.com/repository-band/The_Fracture_Log)
+[![Listen on Spotify](/listen-on-spotify.png)](https://open.spotify.com/intl-de/album/6ag3d53S9kBAxD0fm1pARr)
+[![Listen on Apple Music](/listen-on-apple-music.png)](https://music.apple.com/us/album/the-fracture-log/1851078043)
+[![Listen on Tidal](/listen-on-tidal.png)](https://tidal.com/album/472020882)
+[![Listen on Amazon Music](/listen-on-amazon-music.png)](https://music.amazon.de/albums/B0FZYC9QB5)
+[![Listen on YouTube Music](/listen-on-youtube-music.png)](https://music.youtube.com/playlist?list=OLAK5uy_ljbkNdrjnsZq9py60_SnZndLR4FK-WgVU)
 1. [Initial Commit](https://github.com/repository-band/The_Fracture_Log/tree/main/01.%20Initial%20Commit)
 2. [Empty Parentheses](https://github.com/repository-band/The_Fracture_Log/tree/main/02.%20Empty%20Parentheses)
 3. [The Quiet Room](https://github.com/repository-band/The_Fracture_Log/tree/main/03.%20The%20Quiet%20Room)
@@ -34,14 +39,6 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 8. [Unstable Branch](https://github.com/repository-band/The_Fracture_Log/tree/main/08.%20Unstable%20Branch)
 9. [Null Reference](https://github.com/repository-band/The_Fracture_Log/tree/main/09.%20Null%20Reference)
 10. [Merge Conflicts](https://github.com/repository-band/The_Fracture_Log/tree/main/10.%20Merge%20Conflicts)
-
-Listen here:
-* [Spotify](https://open.spotify.com/intl-de/album/6ag3d53S9kBAxD0fm1pARr)
-* [Apple Music](https://music.apple.com/us/album/the-fracture-log/1851078043)
-* [Tidal](https://tidal.com/album/472020882)
-* [Amazon Music](https://music.amazon.de/albums/B0FZYC9QB5)
-* [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_ljbkNdrjnsZq9py60_SnZndLR4FK-WgVU)
-* [YouTube](https://www.youtube.com/playlist?list=PLUX30XhOtlv4-aq3WyHqoWmxfXnuqvTpc)
 
 ## 💿 [The Space Between](https://github.com/repository-band/The_Space_Between)
 1. [Render Intentions](https://github.com/repository-band/The_Space_Between/tree/main/01.%20Render%20Intentions)

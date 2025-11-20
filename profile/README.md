@@ -22,8 +22,9 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 
 ---
 
-# Music
-## 💿 [The Fracture Log](https://github.com/repository-band/The_Fracture_Log)
+# 💿 The Fracture Log
+![Cover](https://raw.githubusercontent.com/repository-band/The_Fracture_Log/refs/heads/main/cover-small.jpg)
+
 [![Listen on Spotify](/listen-on-spotify.png)](https://open.spotify.com/intl-de/album/6ag3d53S9kBAxD0fm1pARr)
 [![Listen on Apple Music](/listen-on-apple-music.png)](https://music.apple.com/us/album/the-fracture-log/1851078043)
 [![Listen on Tidal](/listen-on-tidal.png)](https://tidal.com/album/472020882)
@@ -40,5 +41,5 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 9. [Null Reference](https://github.com/repository-band/The_Fracture_Log/tree/main/09.%20Null%20Reference)
 10. [Merge Conflicts](https://github.com/repository-band/The_Fracture_Log/tree/main/10.%20Merge%20Conflicts)
 
-## 💿 [The Space Between](https://github.com/repository-band/The_Space_Between)
+# 💿 The Space Between
 1. [Render Intentions](https://github.com/repository-band/The_Space_Between/tree/main/01.%20Render%20Intentions)

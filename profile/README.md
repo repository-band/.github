@@ -43,3 +43,4 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 
 # 💿 The Space Between
 1. [Render Intentions](https://github.com/repository-band/The_Space_Between/tree/main/01.%20Render%20Intentions)
+2. [Hard Coded](https://github.com/repository-band/The_Space_Between/tree/main/02.%20Hard%20Coded)

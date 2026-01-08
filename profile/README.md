@@ -42,6 +42,8 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 10. [Merge Conflicts](https://github.com/repository-band/The_Fracture_Log/tree/main/10.%20Merge%20Conflicts)
 
 # 💿 The Space Between
+![Cover](https://raw.githubusercontent.com/repository-band/The_Space_Between/refs/heads/main/cover-small.jpg)
+
 1. [Render Intentions](https://github.com/repository-band/The_Space_Between/tree/main/01.%20Render%20Intentions)
 2. [Hard Coded](https://github.com/repository-band/The_Space_Between/tree/main/02.%20Hard%20Coded)
 3. [Daemon Thread](https://github.com/repository-band/The_Space_Between/tree/main/03.%20Daemon%20Thread)

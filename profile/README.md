@@ -51,4 +51,4 @@ If you find yourself in these echoes, feel free to explore, contribute your own 
 7. [Exception Handling](https://github.com/repository-band/The_Space_Between/tree/main/07.%20Exception%20Handling)
 8. [Cached Reality](https://github.com/repository-band/The_Space_Between/tree/main/08.%20Cached%20Reality)
 9. [Access Blocked](https://github.com/repository-band/The_Space_Between/tree/main/09.%20Access%20Blocked)
-10. System Halt
+10. [System Halt](https://github.com/repository-band/The_Space_Between/tree/main/10.%20System%20Halt)
